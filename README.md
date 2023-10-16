@@ -24,4 +24,7 @@
 ## 📚 Beakjoon tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wns0751)](https://solved.ac/wns0751/)
 
+## 📚 My stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonho4&show_icons=true&theme=radical)
+
 </p>
