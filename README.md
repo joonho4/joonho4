@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=12&height=300&section=header&text=Joonho's%20Github&fontSize=90&fontColor=ffffff&animation=scaleIn)
+
 <h1 align="center">Hi 👋, I'm Joonho</h1>
 <h3 align="center">I am a student at Gyeongbuk Software High School and an aspiring developer.</h3>
 
