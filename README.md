@@ -8,7 +8,7 @@
 <a href="https://instagram.com/jjoon070501">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-<a href="https://discordapp.com/users/648462033775362061">
+<a href="https://discordapp.com/users/584018179198812161">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
     
