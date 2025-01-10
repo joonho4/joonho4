@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/jjoon070501">
+<a href="https://instagram.com/parkjoonho_07">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="https://discordapp.com/users/584018179198812161">
